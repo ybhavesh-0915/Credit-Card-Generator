@@ -1,7 +1,3 @@
-Great! Thanks for the update. Since your CSS is written in **SCSS** and the project is live at [ybhavesh-0915.github.io/Credit-Card-Generator](https://ybhavesh-0915.github.io/Credit-Card-Generator/), here's the **updated `README.md`** reflecting that:
-
----
-
 ## 📇 Credit Card Generator
 
 A responsive web application that generates fake credit card data using the [FakerAPI](https://fakerapi.it/). Built with **HTML**, **SCSS**, and **JavaScript** (with Axios), and deployed via GitHub Pages.
