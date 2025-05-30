@@ -42,6 +42,7 @@ A responsive web application that generates fake credit card data using the [Fak
 
 ```
 📁 project-root/
+├── assest             //All images
 ├── index.html         // Main HTML structure
 ├── style.scss         // SCSS source file
 ├── style.css          // Compiled CSS (used in HTML)
