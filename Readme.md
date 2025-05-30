@@ -82,5 +82,3 @@ A responsive web application that generates fake credit card data using the [Fak
 MIT License © Bhavesh Yadav
 
 ---
-
-Let me know if you want the SCSS file added or need help converting SCSS to CSS automatically!
